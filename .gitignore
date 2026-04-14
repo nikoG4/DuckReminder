@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+build/
+dist/
+installer/
+
+*.spec
+
+innosetup-latest.exe
+config.json
