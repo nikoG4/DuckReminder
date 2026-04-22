@@ -40,6 +40,7 @@ build_installer.bat
 ## Archivos importantes
 
 - `main.py`: aplicacion principal
+- `locales/`: textos de la interfaz en espanol e ingles
 - `build_exe.bat`: compila el `.exe`
 - `build_installer.bat`: compila el `.exe` y el instalador
 - `installer.iss`: script de Inno Setup
